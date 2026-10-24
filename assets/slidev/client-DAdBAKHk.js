@@ -1,0 +1,1 @@
+import{h as e,m as t,p as n}from"../index-CAhm2zFy.js";import"../useDrawings-BhskP-A3.js";function r(){return{isColorSchemaConfigured:n,isDark:t,toggleDark:e}}export{r as t};
